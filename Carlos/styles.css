@@ -2,13 +2,13 @@ body {
     font-family: 'Segoe UI', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #00CCFF ; /* Azul claro */
+    background-color: 	#CEE7FF; /*Azul cielo*/
     color: #333;
     text-align: center;
 }
 
 header {
-    background-color: #CCCCFF; /*Azul suave */
+    background-color: 	#87CEFA ; /*Azul suabe*/
     color: white;
     padding: 40px 20px;
 }
@@ -37,7 +37,7 @@ h1 {
 }
 
 h2 {
-    color:#0099FF ; /* Rosa oscuro */
+    color:#00BFFF	 ; /* Azul*/
 }
 
 ul {
@@ -59,7 +59,7 @@ ul li {
     display: inline-block;
     margin: 10px;
     padding: 10px 20px;
-    background-color: #e91e63; /* Rosa fuerte */
+    background-color: #00BFFF; /* Azul*/
     color: white;
     text-decoration: none;
     border-radius: 8px;
@@ -71,7 +71,7 @@ ul li {
 }
 
 footer {
-    background-color: #f8b4d8;
+    background-color: # 	#75B313 ;
     color: white;
     padding: 15px;
     font-size: 14px;
